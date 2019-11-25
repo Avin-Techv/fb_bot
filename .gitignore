@@ -1,0 +1,9 @@
+#ignore pycharm configuration folder
+.idea/
+web_service/migrations/
+
+#ignore all pyc files
+*.pyc
+
+#ignore sqlite3 file
+db.sqlite3
